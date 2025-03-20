@@ -1,5 +1,5 @@
-➡️  DirSleuth
-A fast and customizable directory discovery tool written in Python
+➡️  DirSleuth<br>
+A free, fast and customizable directory discovery tool written in Python
 
 DirSleuth is a lightweight directory brute-forcing tool that helps uncover hidden directories and files on a web server. It's designed for speed and efficiency, using multi-threading to make quick work of large wordlists.
 
