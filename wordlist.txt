@@ -1,0 +1,9 @@
+admin
+backup
+uploads
+config
+login
+assets
+css
+js
+images
