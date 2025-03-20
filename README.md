@@ -71,8 +71,8 @@ python dirsleuth.py -u https://example.com -w wordlist.txt -t 10
 - ⚠️ Use responsibly and within the scope of permission.
 
 ## 👨‍💻 Author
-- 💻 Your Name
-- 🔗 GitHub: [@yourusername](https://github.com/coderprasnt)
+- 💻 Coderprasant
+- 🔗 GitHub: [@coderprasant](https://github.com/coderprasnt)
 
 ## 🌟 Contribute
 Feel free to open an issue or create a pull request if you'd like to contribute! 😎
